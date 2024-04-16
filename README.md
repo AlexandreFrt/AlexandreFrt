@@ -17,16 +17,18 @@ I'm 18 years old and I'm from France 🇫🇷
 
 ## Tools
 
-+ IDE
++ IDE & Extensions
 
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)](https://www.jetbrains.com/rider)
-[![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea)
+[![Resharper](https://img.shields.io/badge/ReSharper-000000.svg?style=for-the-badge&logo=ReSharper&logoColor=white)](https://www.jetbrains.com/resharper)
 
 + OS
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6.svg?style=for-the-badge&logo=Windows-10&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
 [![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
 
@@ -63,7 +65,9 @@ I'm 18 years old and I'm from France 🇫🇷
 + Networking
 
 [![VMWare](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white)](https://www.vmware.com)
+[![Virtual Box](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20.svg?style=for-the-badge&logo=OpenVPN&logoColor=white)](https://openvpn.net/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com)
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)](https://www.cisco.com)
 
@@ -84,6 +88,7 @@ I'm 18 years old and I'm from France 🇫🇷
 
 + Desktop Application
 
+[![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io)
 
 + Web
