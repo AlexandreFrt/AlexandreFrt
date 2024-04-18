@@ -7,10 +7,11 @@ I'm 18 years old and I'm from France 🇫🇷
 ## Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-662079.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-121011.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![Microsoft Batch](https://img.shields.io/badge/Microsoft_Batch-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Powershell](https://img.shields.io/badge/PowerShell-0277BD.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,8 +50,9 @@ I'm 18 years old and I'm from France 🇫🇷
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/visio)
-[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
-[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Microsoft Project](https://custom-icon-badges.demolab.com/badge/Microsoft%20Project-217346?style=for-the-badge&logo=microsoft-project)](https://www.eset.com/)
+[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-AF1B2D?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
+[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-C14320?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
 + Game engine / 3D
 
@@ -64,10 +66,11 @@ I'm 18 years old and I'm from France 🇫🇷
 
 + Networking
 
-[![VMWare](https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white)](https://www.vmware.com)
+[![VMware Workstation Pro](https://custom-icon-badges.demolab.com/badge/VMWARE%20WORKSATION%20PRO-004562?style=for-the-badge&logo=vmware-workstation)](https://www.vmware.com/products/workstation-pro.html)
 [![Virtual Box](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)](https://www.wireshark.org)
-[![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20.svg?style=for-the-badge&logo=OpenVPN&logoColor=white)](https://openvpn.net/)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20.svg?style=for-the-badge&logo=OpenVPN&logoColor=white)](https://openvpn.net)
+[![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-6B9837.svg?style=for-the-badge&logo=VMware&logoColor=white)](https://www.vmware.com/products/esxi-and-esx.html)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com)
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)](https://www.cisco.com)
 
@@ -89,7 +92,7 @@ I'm 18 years old and I'm from France 🇫🇷
 
 + Desktop Application
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
 [![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io)
 
 + Web
@@ -100,6 +103,16 @@ I'm 18 years old and I'm from France 🇫🇷
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Security
+
++ Antivirus
+
+[![Eset](https://custom-icon-badges.demolab.com/badge/ESET%20SECURITY-008f9c?style=for-the-badge&logo=eset-logo)](https://www.eset.com)
+
++ Password manager
+
+[![Dashlane](https://img.shields.io/badge/Dashlane-09363F.svg?style=for-the-badge&logo=Dashlane&logoColor=white)](https://dashlane.com)
 
 ## My stats
 
