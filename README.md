@@ -42,11 +42,11 @@ I'm 18 years old and I'm from France 🇫🇷
 
 [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950.svg?style=for-the-badge&logo=Opera-GX&logoColor=white)](https://www.opera.com)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/intl/en/chrome/)
-[![Mozilla Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en/firefox/)
+[![Mozilla Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en/firefox/)
 
 + Office
 
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-EC3900?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/visio)
@@ -125,3 +125,25 @@ I'm 18 years old and I'm from France 🇫🇷
 ## My socials
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/782228031342510100)
+
+## My PC specs
+
++ CPU
+
+![Intel](https://img.shields.io/badge/Intel_Core_I9_14900KF-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
+
++ CPU Cooler
+
+![Arctic Liquid](https://custom-icon-badges.demolab.com/badge/Arctic%20Liquid%20Freezer%20III%20420%20ARGB-023A5F?style=for-the-badge&logo=arctic_logo)
+
++ RAM
+
+![RAM Corsair](https://img.shields.io/badge/Corsair_Vengeance_7200MT/s_(2x16Go)-000000.svg?style=for-the-badge&logo=Corsair&logoColor=white)
+
++ GPU
+
+![Nvidia](https://img.shields.io/badge/NVIDIA_RTX_4080_SUPER-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+  
++ Case
+
+![Case Corsair](https://img.shields.io/badge/Corsair_7000D_AIRFLOW-000000.svg?style=for-the-badge&logo=Corsair&logoColor=white)
