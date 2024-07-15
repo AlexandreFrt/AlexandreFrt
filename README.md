@@ -101,6 +101,8 @@ I'm 19 years old and I'm from France 🇫🇷
 + Web
 
 [![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
+[![Boostrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)](https://laravel.com)
 
 ## Database
 
@@ -119,9 +121,12 @@ I'm 19 years old and I'm from France 🇫🇷
 
 ## My stats
 
-[![AlexandreFrt's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreFrt&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![AlexandreFrt's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreFrt&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AlexandreFrt's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFrt&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![AlexandreFrt's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFrt&show_icons=true&theme=github_dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Pong-CPP Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreFrt&repo=Pong-CPP&theme=github_dark)](https://github.com/AlexandreFrt/Pong-CPP)
+
 <!--
 [![Sparkline](https://stars.medv.io/AlexandreFrt/badges.svg)](https://stars.medv.io/AlexandreFrt/badges)
 -->
