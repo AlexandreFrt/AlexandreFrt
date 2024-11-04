@@ -143,27 +143,7 @@ I'm 19 years old and I'm from France 🇫🇷
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/782228031342510100)
 
-## My PC specs
-
-+ CPU
-
-![Intel](https://img.shields.io/badge/Intel_Core_I9_14900KF-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white)
-
-+ CPU Cooler
-
-![Arctic Liquid](https://custom-icon-badges.demolab.com/badge/Arctic%20Liquid%20Freezer%20III%20420%20ARGB-023A5F?style=for-the-badge&logo=arctic_logo)
-
-+ RAM
-
-![RAM Corsair](https://img.shields.io/badge/Corsair_Vengeance_7200MT/s_(2x16Go)-000000.svg?style=for-the-badge&logo=Corsair&logoColor=white)
-
-+ GPU
-
-![Nvidia](https://img.shields.io/badge/NVIDIA_RTX_4080_SUPER-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
-  
-+ Case
-
-![Case Corsair](https://img.shields.io/badge/Corsair_7000D_AIRFLOW-000000.svg?style=for-the-badge&logo=Corsair&logoColor=white)
+Portfolio : https://alexandreforet.pro
 
 <!--
 Thanks to : https://home.aveek.io/GitHub-Profile-Badges/
