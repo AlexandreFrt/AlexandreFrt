@@ -139,9 +139,6 @@ I'm 20 years old and I'm from France 🇫🇷
 <!--
 [![Sparkline](https://stars.medv.io/AlexandreFrt/badges.svg)](https://stars.medv.io/AlexandreFrt/badges)
 -->
-## My socials
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/782228031342510100)
 
 <!--
 Thanks to : https://home.aveek.io/GitHub-Profile-Badges/
